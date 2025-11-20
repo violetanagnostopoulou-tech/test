@@ -1,1 +1,4 @@
-# Example of README
+# Example of README.md
+
+*first try of Github
+
